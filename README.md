@@ -50,3 +50,7 @@ when the loop while stop could be use oposition as long as `if`:
 ```
 else
 ```
+the range could be use for progressive cont in method `for`:
+```
+for x in range (6)
+```
